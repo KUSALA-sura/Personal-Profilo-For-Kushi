@@ -1,5 +1,5 @@
 # Personal-Profilo-For-Kushi
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Feat-sleep-wallpapers&psig=AOvVaw1tT1VV3cxLqi5s0ea8a9nk&ust=1652193287407000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi0jeTR0vcCFQAAAAAdAAAAABAL" width="900" height="200">
+<img src="![readme](https://user-images.githubusercontent.com/85355371/167433875-f9223811-421e-44a6-baf7-60d82613361c.jpg)" width="900" height="200">
 
 # Sura Kusala
 
