@@ -1,5 +1,4 @@
 # Personal-Profilo-For-Kushi
-<img src="![readme](https://user-images.githubusercontent.com/85355371/167434186-30a67e8d-81bf-4bcf-9d64-4fc5b31a2055.jpg)" width="900" height="200">
 
 # Sura Kusala
 
