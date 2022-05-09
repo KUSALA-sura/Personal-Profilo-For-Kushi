@@ -20,9 +20,9 @@ I'm a CS Student at [MITS](https://www.mits.ac.in/)
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-- 👩‍💻 All of my projects are available  [here](https://github.com/ushasrimavuri1999?tab=repositories)
+- 👩‍💻 All of my projects are available  [here](https://github.com/KUSALA-sura?tab=repositories)
 - 👯 Looking for an Internship/Full Time opportunity.
-- 👩‍💻 Want to know more about myself, then Portfolio website is [here](https://ushasrimavuri1999.github.io/UshasriMavuri1999/)
+- 👩‍💻 Want to know more about myself, then Portfolio website is [here](https://github.com/KUSALA-sura/Personal-Profilo-For-Kushi)
 
 <details>
 <summary>📊 Github Stats</summary>
