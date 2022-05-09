@@ -58,7 +58,7 @@ I'm a CS Student at [MITS](https://www.mits.ac.in/)
 </a>
 <br />
 <hr />
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the, <a href="https://github.com/ushasrimavuri1999?tab=repositories">repositories! </a></h3> 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the, <a href="https://github.com/KUSALA-sura?tab=repositories">repositories! </a></h3> 
 <!--
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/kushala-sura-38b3a71a4/
