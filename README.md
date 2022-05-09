@@ -1,5 +1,5 @@
 # Personal-Profilo-For-Kushi
-<img src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp?cid=ecf05e47ccv1itgnu8drqxjb0y6dk9tmflivlwlwb7qjh832&rid=200w.webp" width="900" height="200">
+<img src="https://www.teepublic.com/sticker/18015191-eat-sleep-work-repeat-design-dispatchers" width="900" height="200">
 
 # Sura Kusala
 
