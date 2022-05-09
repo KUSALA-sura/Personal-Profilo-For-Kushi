@@ -32,7 +32,7 @@ I'm a CS Student at [MITS](https://www.mits.ac.in/)
 
 <summary>📊 Most Used Languages</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushasrimavuri1999&show_icons=true&theme=gotham" alt="Ushasri Mavuri | Stats" />
+
 
 </details>
 
